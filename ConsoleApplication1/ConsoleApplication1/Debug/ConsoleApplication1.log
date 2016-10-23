@@ -1,4 +1,4 @@
-﻿Построение начато 22-Oct-16 11:16:52 AM.
+﻿Построение начато 22-Oct-16 11:43:22 AM.
      1>Проект "C:\Users\Vartotojas\Desktop\2 course\oop\laba 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" в узле 2 (целевые объекты Build).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication1.cpp
@@ -17,4 +17,4 @@
 
 Построение успешно завершено.
 
-Затраченное время: 00:00:01.04
+Затраченное время: 00:00:01.30

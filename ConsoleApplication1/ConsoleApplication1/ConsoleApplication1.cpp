@@ -18,6 +18,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	student first; {
 		student *voi=new student[4]; 
 		cout<<"Объектов создано:"<<student::getcount()<<endl;
+		cout<<"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"<<endl<<endl;;
 	};
 
 	pub_house y;
